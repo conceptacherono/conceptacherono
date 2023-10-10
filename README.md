@@ -6,16 +6,16 @@ I'm Concepta Cherono, a passionate Software Developer from Kenya.
 - 🌱 I’m currently learning Elixir, PHP.
 - 💬 Ask me about React.
 - 📫 How to reach me: conceptacherono@gmail.com.
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [Fun Fact about Yourself].
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: I love trying new recipes.
 
 ## 🚀 My Skills and Interests
 
 Here are some of the technologies and topics I'm interested in:
 
-- [Skill/Interest 1]
-- [Skill/Interest 2]
-- [Skill/Interest 3]
+- Open Source, Machine Learning
+- UX/UI Design, DevOps, Project Management
+- Currently learning Elixir and PHP.
 
 ## 📊 GitHub Stats
 
