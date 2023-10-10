@@ -33,9 +33,11 @@ Here are some of the technologies and topics I'm interested in:
 
 Here are some of my notable projects:
 
-1. [Project 1](https://github.com/yourusername/project1): Brief description.
-2. [Project 2](https://github.com/yourusername/project2): Brief description.
-3. [Project 3](https://github.com/yourusername/project3): Brief description.
+1. [Mtumba Bay](https://github.com/conceptacherono/mtumba_bay):  It is an E-commerce platform that specializes in thrift or secondhand goods and often provides a marketplace for individuals to buy and sell used clothing, accessories, and other pre-owned items.
+
+2. [Neighborhood ](https://github.com/yourusername/project2): This is a web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handymen to meeting announcements or even alerts.
+   
+3. [Meno Kenya](https://github.com/conceptacherono/Meno-Kenya): This ia a web application that allows clients to make dental appointments with their dentists.
 
 
 Feel free to explore my GitHub repositories to see more of my work!
