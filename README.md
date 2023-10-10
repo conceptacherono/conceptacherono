@@ -26,8 +26,7 @@ Here are some of the technologies and topics I'm interested in:
 ## 🌐 Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/concepta-c-33111222b/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- Personal Website: [Your Website](https://www.yourwebsite.com)
+- [My Website](https://concepta-cherono.vercel.app/)
 
 ## 🔗 My Projects
 
